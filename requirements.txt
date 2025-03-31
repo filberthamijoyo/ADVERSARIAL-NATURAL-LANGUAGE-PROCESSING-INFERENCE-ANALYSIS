@@ -1,0 +1,12 @@
+datasets
+langchain
+langchain_openai
+langchain_deepseek
+tqdm
+matplotlib
+pandas
+seaborn
+pyarrow
+faiss-cpu
+langchain_community
+sentence-transformers
