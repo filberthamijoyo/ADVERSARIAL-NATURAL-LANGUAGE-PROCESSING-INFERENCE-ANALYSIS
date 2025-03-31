@@ -30,8 +30,6 @@ The project includes:
 
 ## Setup and Execution
 
-The notebook (`NLP_Ass2.ipynb`) contains the complete implementation and can be run in Jupyter or Google Colab.
-
 ### Requirements
 Required packages can be installed with:
 ```
